@@ -24,7 +24,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Step 1-setup resources in azure
+- Step 2-ensure connection between client and domain controller
+- Step 3-install active directory
+- Step 4-create admin and normal user account 
